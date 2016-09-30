@@ -1,0 +1,6 @@
+base
+googleVis
+DBI
+RSQLite
+dplyr
+tidyr
